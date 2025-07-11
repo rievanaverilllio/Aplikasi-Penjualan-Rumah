@@ -9,10 +9,23 @@ Aplikasi ini merupakan sistem informasi yang dirancang untuk mendukung proses **
 
 ## Design Database
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="dokumentasi/tabelkontrakan.png" alt="Tabel Kontrakan" width="250"/>
-  <img src="dokumentasi/tabelpenyewaan.png" alt="Tabel Penyewaan" width="250"/>
-  <img src="dokumentasi/tabeluser.png" alt="Tabel User" width="250"/>
+<div style="display: flex; gap: 20px; justify-content: center; text-align: center;">
+
+  <div>
+    <p><strong>Tabel Kontrakan</strong></p>
+    <img src="dokumentasi/tabelkontrakan.png" alt="Tabel Kontrakan" width="250"/>
+  </div>
+
+  <div>
+    <p><strong>Tabel Penyewaan</strong></p>
+    <img src="dokumentasi/tabelpenyewaan.png" alt="Tabel Penyewaan" width="250"/>
+  </div>
+
+  <div>
+    <p><strong>Tabel User</strong></p>
+    <img src="dokumentasi/tabeluser.png" alt="Tabel User" width="250"/>
+  </div>
+
 </div>
 
 ## Tampilan Aplikasi
