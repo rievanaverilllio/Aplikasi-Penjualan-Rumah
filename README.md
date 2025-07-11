@@ -7,6 +7,14 @@ Aplikasi ini merupakan sistem informasi yang dirancang untuk mendukung proses **
 - **Delphi 7** – digunakan untuk membangun aplikasi desktop
 - **MySQL** – digunakan sebagai sistem basis data untuk menyimpan data pengguna, rumah, penyewaan, dan transaksi
 
+## Design Database
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="dokumentasi/tabelkontrakan.png" alt="Tabel Kontrakan" width="250"/>
+  <img src="dokumentasi/tabelpenyewaan.png" alt="Tabel Penyewaan" width="250"/>
+  <img src="dokumentasi/tabeluser.png" alt="Tabel User" width="250"/>
+</div>
+
 ## Tampilan Aplikasi
 
 ### Halaman Awal
@@ -26,15 +34,6 @@ Aplikasi ini merupakan sistem informasi yang dirancang untuk mendukung proses **
 
 ### Form Tabel Penyewaan
 ![Form Tabel Penyewaan](dokumentasi/formtabelpenyewaan.png)
-
-### Tabel Kontrakan
-![Tabel Kontrakan](dokumentasi/tabelkontrakan.png)
-
-### Tabel Penyewaan
-![Tabel Penyewaan](dokumentasi/tabelpenyewaan.png)
-
-### Tabel User
-![Tabel User](dokumentasi/tabeluser.png)
 
 ## Panduan Instalasi
 
