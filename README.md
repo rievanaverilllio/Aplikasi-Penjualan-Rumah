@@ -8,36 +8,21 @@ Aplikasi ini merupakan sistem informasi yang dirancang untuk mendukung proses **
 - **MySQL** – digunakan sebagai sistem basis data untuk menyimpan data pengguna, rumah, penyewaan, dan transaksi
 
 ## Design Database
-
-<div style="display: flex; gap: 20px; justify-content: center; text-align: center;">
-
-  <div>
-    <p><strong>Tabel Kontrakan</strong></p>
-    <img src="dokumentasi/tabelkontrakan.png" alt="Tabel Kontrakan" width="250"/>
-  </div>
-
-  <div>
-    <p><strong>Tabel Penyewaan</strong></p>
-    <img src="dokumentasi/tabelpenyewaan.png" alt="Tabel Penyewaan" width="250"/>
-  </div>
-
-  <div>
-    <p><strong>Tabel User</strong></p>
-    <img src="dokumentasi/tabeluser.png" alt="Tabel User" width="250"/>
-  </div>
-
-</div>
+![Tabel Kontrakan](dokumentasi/trd.png)
+![Tabel Kontrakan](dokumentasi/tabelkontrakan.png)
+![Tabel Penyewaan](dokumentasi/tabelpenyewaan.png)
+![Tabel User](dokumentasi/tabeluser.png)
 
 ## Tampilan Aplikasi
-
-### Halaman Awal
-![Halaman Awal](dokumentasi/halamanawal.png)
 
 ### Form Login
 ![Login](dokumentasi/login.png)
 
 ### Form Registrasi
 ![Register](dokumentasi/register.png)
+
+### Halaman Awal
+![Halaman Awal](dokumentasi/halamanawal.png)
 
 ### Form Admin
 ![Form Admin](dokumentasi/formadmin.png)
