@@ -13,26 +13,6 @@ Aplikasi ini merupakan sistem informasi yang dirancang untuk mendukung proses **
 ![Tabel Penyewaan](dokumentasi/tabelpenyewaan.png)
 ![Tabel User](dokumentasi/tabeluser.png)
 
-## Tampilan Aplikasi
-
-### Form Login
-![Login](dokumentasi/login.png)
-
-### Form Registrasi
-![Register](dokumentasi/register.png)
-
-### Halaman Awal
-![Halaman Awal](dokumentasi/halamanawal.png)
-
-### Form Admin
-![Form Admin](dokumentasi/formadmin.png)
-
-### Form Penyewaan
-![Form Penyewaan](dokumentasi/formpenyewaan.png)
-
-### Form Tabel Penyewaan
-![Form Tabel Penyewaan](dokumentasi/formtabelpenyewaan.png)
-
 ## Panduan Instalasi
 
 1. Clone repository ini.
